@@ -1,0 +1,5 @@
+[{"userId":1, "fname":"John", "lname":"Doe", "mobile":"1234567890", "email":"john.doe@example.com", "password":"password123"},
+ {"userId":2, "fname":"Jane", "lname":"Smith", "mobile":"9876543210", "email":"jane.smith@example.com", "password":"pass456"},
+ {"userId":3, "fname":"Alice", "lname":"Johnson", "mobile":"5556667777", "email":"alice.j@example.com", "password":"securepass"},
+ {"userId":4, "fname":"Bob", "lname":"Williams", "mobile":"1112223333", "email":"bob.w@example.com", "password":"password789"},
+ {"userId":5, "fname":"Eve", "lname":"Anderson", "mobile":"9998887777", "email":"eve.a@example.com", "password":"strongpass"}]

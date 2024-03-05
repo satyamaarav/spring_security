@@ -1,0 +1,5 @@
+[{"entryId":1, "date":"2023-01-01 00:00:00", "type":"Income", "category":"Salary", "amount":5000.0, "description":"Monthly salary", "payment_mode":"Direct Deposit", "userId":1},
+ {"entryId":2, "date":"2023-01-05 00:00:00", "type":"Expense", "category":"Groceries", "amount":100.0, "description":"Weekly grocery shopping", "payment_mode":"Credit Card", "userId":2},
+ {"entryId":3, "date":"2023-01-10 00:00:00", "type":"Expense", "category":"Utilities", "amount":50.0, "description":"Electricity bill", "payment_mode":"Online Transfer", "userId":3},
+ {"entryId":4, "date":"2023-01-15 00:00:00", "type":"Income", "category":"Freelance", "amount":200.0, "description":"Freelance work payment", "payment_mode":"PayPal", "userId":4},
+ {"entryId":5, "date":"2023-01-20 00:00:00", "type":"Expense", "category":"Entertainment", "amount":30.0, "description":"Movie night", "payment_mode":"Cash", "userId":5}]
